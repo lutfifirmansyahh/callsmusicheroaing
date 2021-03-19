@@ -1,6 +1,6 @@
 # Deploy Calls Music to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lutfifirmansyahh/CallsMusicaing/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lutfifirmansyahh/CallsMusicheroaing/)
 
 # Main repository
 
